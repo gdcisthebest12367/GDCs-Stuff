@@ -1,3 +1,1 @@
-# ***[Lit Sites](https://template.litritt.com)***
-
-A template for my [Jekyll](https://github.com/jekyll/jekyll) sites
+# ***[GDCs Stuff (in development)](https://gdcisthebest12367.github.io/GDCs-Stuff/)***
