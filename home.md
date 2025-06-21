@@ -1,4 +1,4 @@
 ---
-redirect_title: Home
-redirect_url: https://litritt.com
+redirect_title: Home Page
+redirect_url: https://www.gdcisthebest12367.github.io/GDCs-Stuff/
 ---
